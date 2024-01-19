@@ -1,0 +1,24 @@
+# App
+node_modules/
+
+# Build
+.nyc_output/
+
+# IDEs
+.idea/
+.vscode/
+out/
+*.eml
+*.iml
+*.iws
+*.swp
+
+# Branch ghpages
+assets/
+!frontend/src/assets/
+
+# Custom configuration files
+config/*.yml
+
+# System Files
+.DS_Store
